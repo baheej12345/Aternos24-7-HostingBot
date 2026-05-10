@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "monsters--smp.aternos.me",
-    "port": 18708,
+    "ip": "",
+    "port": ,
     "version": "",
     "try-creative": false
   },
